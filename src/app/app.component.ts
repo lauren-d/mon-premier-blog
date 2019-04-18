@@ -14,7 +14,7 @@ export class AppComponent {
       loveIts: 0,
     },
     {
-      title: 'Mon deuxièment post',
+      title: 'Mon deuxième post',
       content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et maximus nibh. Etiam posuere volutpat dui, eget dapibus erat tristique tincidunt. Maecenas aliquet scelerisque lacus, a commodo velit laoreet id',
       loveIts: 0,
     },
